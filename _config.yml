@@ -48,16 +48,7 @@ about_content: | # this will include new lines to allow paragraphs
   Me llamo Enrique, soy estudiante de ingenieria informatica, no tengo mucha experiencia pero estamos aprendiendo.
   Soy mas habilidoso en: <mark>Unity</mark> y <mark>Usar chat GPT</mark>
 
-content:
-  - title: Proyectos # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-     - layout: top-middle
-        title: 0 Proyectos
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          No he hecho ningun proyecto complejo, solo proyectos simples para las materias de la escuela. aaaaaaaaaaaaaaaaaaaaaa
+
 
   - title: Experiencia # Title for the section
     layout: list # Type of content section (list/text)
