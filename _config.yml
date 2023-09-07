@@ -48,8 +48,8 @@ about_content: | # this will include new lines to allow paragraphs
   Me llamo Enrique, soy estudiante de ingenieria informatica, no tengo mucha experiencia pero estamos aprendiendo.
   Soy mas habilidoso en: <mark>Unity</mark> y <mark>Usar chat GPT</mark>
 
-
-
+content:
+  
   - title: Experiencia # Title for the section
     layout: list # Type of content section (list/text)
     content:
