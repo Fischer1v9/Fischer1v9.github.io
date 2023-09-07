@@ -67,9 +67,9 @@ content:
              icon: fab fa-github
              url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-        This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-        No he hecho ningun proyecto complejo aun, solo proyectos simples para las materias de la escuela.
+          No he hecho ningun proyecto complejo aun, solo proyectos simples para las materias de la escuela.
 
   - title: Experiencia # Title for the section
     layout: list # Type of content section (list/text)
