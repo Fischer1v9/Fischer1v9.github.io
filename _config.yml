@@ -1,7 +1,4 @@
 # Site
-repository: sproogen/resume-theme
-favicon: images/favicon.ico
-
 # Content configuration version
 version: 2
 
@@ -49,7 +46,7 @@ github_username:  Fischer1v9
 about_profile_image: profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Me llamo Enrique, soy estudiante de ingenieria informatica, no tengo mucha experiencia pero estamos aprendiendo.
-  Soy mas habilidoso em: <mark>videojuegos</mark> y <mark>Usar chat GPT</mark>
+  Soy mas habilidoso em: <mark>Unity</mark> y <mark>Usar chat GPT</mark>
 
 content:
   - title: Proyectos # Title for the section
