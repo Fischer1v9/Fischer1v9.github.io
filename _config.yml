@@ -71,7 +71,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           No he hecho ningun proyecto complejo aun, solo proyectos simples para las materias de la escuela.
 
-  - title: Experience # Title for the section
+  - title: Experiencia # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
