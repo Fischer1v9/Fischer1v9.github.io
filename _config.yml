@@ -3,7 +3,7 @@
 version: 2
 
 # Personal info
-name: Luis Enrique Perez Villasenor
+name: Luis Enrique Pérez Villaseñor
 title: Estudiante
 email: fischer1v9@hotmail.com
 website: https://fischer1v9.github.io/
@@ -45,8 +45,8 @@ github_username:  Fischer1v9
 # about_title: About Me
 about_profile_image: profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Me llamo Enrique, soy estudiante de ingenieria informatica, no tengo mucha experiencia pero estamos aprendiendo.
-  Soy mas habilidoso en: <mark>Unity</mark> y <mark>Usar chat GPT</mark>
+  Me llamo Enrique, soy estudiante de Ingeniería Informática. No tengo mucha experiencia, pero estamos aprendiendo. 
+  Soy habilidoso en: <mark>Unity</mark> y <mark>Usar chat GPT</mark>
 
 content:
   
@@ -56,7 +56,7 @@ content:
       - layout: center
         title: No tengo experiencia.
 
-  - title: Educacion
+  - title: Educación 
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -64,21 +64,21 @@ content:
         caption: 2021 - 2023
         sub_title: Ingenieria informatica
         description: | # this will include new lines to allow paragraphs
-          Entre a La Universidad de Guadalajara en 2021 pero por una enfermedad en el cerebro pedi una licencia de 6 meses, tuve que recuperarme fisica y mentalmente. Ya al entrar bien pase por varias materias
-          que me han dado un poco de experiencia y conocimiento, en mi opinion hay dos clases de la carrera que recuerdo bien porque ademas de que son en las que mas he aprendido son las que mas me he divertido,
-          Una de ellas fue la clase de Estructuras de datos con Alfredo Gutiérrez e Hipermedia con Camarena (aqui aprendi a usar Unity).
+          Entré a la Universidad de Guadalajara en 2021, pero debido a una enfermedad en el cerebro, solicité una licencia de 6 meses para recuperarme física y mentalmente. Al regresar, tuve la oportunidad de cursar varias materias que me han proporcionado experiencia y conocimiento. En mi opinión, hay dos clases de la carrera que recuerdo especialmente porque no solo aprendí mucho en ellas, sino que también me divertí mucho.
+          Una de ellas fue la clase de Estructuras de Datos con el profesor Alfredo Gutiérrez, y la otra fue la clase de Hipermedia con el profesor Camarena. En esta última materia, aprendí a utilizar Unity.
 
-  - title: Un poco de mi
+  - title: Un poco sobre mí.
     layout: text
     content: | # this will include new lines to allow paragraphs
       Además de mis intereses en redes e ingeniería de software, algunos de mis otros intereses y pasatiempos son:
+
       - Videojuegos competitivos
       - Correr con mi perro
-      - Tema militar
+      - Temas militares
       - Terrorismo
-
-      Mira esta imagen  
-      ![Trees]( Fischer1v9.github.io/im.jfif "Trees")
+      
+      Mira esta imagen.  
+      ![Trees]( Fischer1v9.github.io/im.jpg"Trees")
 
 # Footer
 footer_show_references: true
