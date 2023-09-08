@@ -75,10 +75,9 @@ content:
       - Videojuegos competitivos
       - Correr con mi perro
       - Temas militares
-      - Terrorismo
       
       Mira esta imagen.  
-      ![Trees]( Fischer1v9.github.io/im.jpg"Trees")
+      ![Trees]( Fischer1v9.github.io/im.jpg "Trees")
 
 # Footer
 footer_show_references: true
