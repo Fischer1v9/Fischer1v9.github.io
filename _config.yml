@@ -51,10 +51,10 @@ about_content: | # this will include new lines to allow paragraphs
 content:
   
 - title: Experiencia # Title for the section
-  layout: list # Type of content section (list/text)
-  content:
-    - layout: center
-      title: "<center>No tengo experiencia</center>"
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: No tengo Experiencia
 
   - title: Educación 
     layout: list # Type of content section (list/text)
