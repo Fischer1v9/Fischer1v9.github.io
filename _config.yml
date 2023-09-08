@@ -54,7 +54,7 @@ content:
   layout: list # Type of content section (list/text)
   content:
     - layout: center
-       title: "<center>No tengo experiencia</center>"
+      title: "<center>No tengo experiencia</center>"
 
   - title: Educación 
     layout: list # Type of content section (list/text)
