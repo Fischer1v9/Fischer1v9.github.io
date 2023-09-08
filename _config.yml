@@ -42,7 +42,7 @@ github_username:  Fischer1v9
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
+about_title: Sobre mí
 about_profile_image: profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Me llamo Enrique, soy estudiante de Ingeniería Informática. No tengo mucha experiencia, pero estamos aprendiendo. 
@@ -77,7 +77,7 @@ content:
       - Temas militares
       
       Mira esta imagen.  
-      ![Trees]( main/im.jpg "Trees")
+      ![Trees]( /main/im.jpg "Trees")
 
 # Footer
 footer_show_references: true
