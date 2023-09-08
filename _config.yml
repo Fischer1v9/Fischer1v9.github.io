@@ -53,14 +53,8 @@ content:
   - title: Experiencia # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
-        title: Poca experiencia
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: a
-        caption: a
-        description: | # this will include new lines to allow paragraphs
-            No tengo experiencia.
+      - layout: center
+        title: No tengo experiencia.
 
   - title: Educacion# Title for the section
     layout: list # Type of content section (list/text)
